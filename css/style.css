@@ -109,7 +109,7 @@ main {
 
   display: block;
 
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 500;
   color: rgb(95, 95, 95);
   background: rgba(255, 255, 255, 0.5);
@@ -210,3 +210,4 @@ main {
     font-size: 30%;
   }
 }
+
